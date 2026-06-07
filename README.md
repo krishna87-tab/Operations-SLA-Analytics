@@ -127,6 +127,8 @@ c) Monitored Rolled Throughput Yield (RTY) to assess end-to-end process efficien
 d) Analyzed monthly variations in defect rates and process capability to support continuous improvement initiatives.
 e) Delivered a data-driven process excellence framework that enables performance benchmarking against predefined quality targets.
 
+![image_alt]()
+
 ## Financial Insights Page
 
 a) Analyzed revenue, profit, gross margin, and case volume trends to provide a comprehensive view of financial performance across the organization.
@@ -134,6 +136,8 @@ b) Monitored Month-over-Month (MoM) growth patterns to identify peak-performing 
 c) Compared profitability and revenue contribution across Lines of Business (LOBs) to highlight key revenue drivers.
 d) Tracked year-over-year performance improvements using dynamic KPI indicators and variance analysis measures.
 e) Enabled executives to evaluate financial health, profitability trends, and business segment performance through an interactive dashboard experience.
+
+![image_alt]()
 
 ## Operations Insights Page
 
@@ -143,8 +147,7 @@ c) Compared operational performance across Lines of Business using SLA achieveme
 d) Analyzed monthly trends in service delivery performance to support workload planning and resource optimization.
 e) Provided operational leaders with actionable insights into service quality, productivity, and customer commitment adherence.
 
-
-
+![image_alt]()
 
 
 
