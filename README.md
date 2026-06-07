@@ -117,6 +117,8 @@ c) Total Cases by month
 d) SLA status breakdown
 e) SLA target comparison: actual 79.60% vs target 98%
 
+![image_alt](https://github.com/krishna87-tab/Operations-SLA-Analytics/blob/be247985262eef4f2fe712bc211b96e41401c08c/Executive%20Overview.png)
+
 ## Process Excellence Page
 
 a) Implemented Lean Six Sigma metrics including DPMO, DPO, DPU, Sigma Level (ZST), and Process Capability (CPK) to measure operational quality.
