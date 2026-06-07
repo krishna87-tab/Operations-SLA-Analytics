@@ -16,7 +16,7 @@ a) Are we meeting the SLA target?
 b) Which regions, lines of business, case types, or agent levels are driving SLA breaches?
 c) How long do cases take to complete?
 d) Is turnaround time stable enough to meet the SLA target consistently?
-e) How do SLA performance, satisfaction, revenue, cost, and profit relate to each other?
+e) How do SLA performance, satisfaction, revenue, cost, and profit relate to each other? 
 
 ## Portfolio Highlights
 
