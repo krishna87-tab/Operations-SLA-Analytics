@@ -137,7 +137,7 @@ c) Compared profitability and revenue contribution across Lines of Business (LOB
 d) Tracked year-over-year performance improvements using dynamic KPI indicators and variance analysis measures.
 e) Enabled executives to evaluate financial health, profitability trends, and business segment performance through an interactive dashboard experience.
 
-![image_alt]()
+![image_alt](https://github.com/krishna87-tab/Operations-SLA-Analytics/blob/bfbfdb68e2d6034039185c8ec8f21dd7fc02008a/finance%20analysis.png)
 
 ## Operations Insights Page
 
