@@ -127,7 +127,7 @@ c) Monitored Rolled Throughput Yield (RTY) to assess end-to-end process efficien
 d) Analyzed monthly variations in defect rates and process capability to support continuous improvement initiatives.
 e) Delivered a data-driven process excellence framework that enables performance benchmarking against predefined quality targets.
 
-![image_alt]()
+![image_alt](https://github.com/krishna87-tab/Operations-SLA-Analytics/blob/8426971ea74694904898ea150d6f70fe711bf9ff/process%20exce.png)
 
 ## Financial Insights Page
 
