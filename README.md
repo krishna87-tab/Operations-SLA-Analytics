@@ -147,7 +147,7 @@ c) Compared operational performance across Lines of Business using SLA achieveme
 d) Analyzed monthly trends in service delivery performance to support workload planning and resource optimization.
 e) Provided operational leaders with actionable insights into service quality, productivity, and customer commitment adherence.
 
-![image_alt]()
+![image_alt](https://github.com/krishna87-tab/Operations-SLA-Analytics/blob/0350c9565f341f9ae8c06f551eef0922b4c6634a/opernations%20analysis.png)
 
 
 
