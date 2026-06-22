@@ -40,7 +40,6 @@ dim_joined as (
         dct.case_type_key,
         ds.sla_key,
 
-        -- measures
         s.premium_amount,
         s.claim_amount,
         s.processing_cost,
@@ -50,7 +49,6 @@ dim_joined as (
         s.tat_hours,
         s.customer_satisfaction,
 
-        -- flags
         s.profitability_flag,
         s.satisfaction_bucket,
         s.tat_bucket,
