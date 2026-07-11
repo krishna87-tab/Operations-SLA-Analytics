@@ -1,0 +1,70 @@
+version: 2
+
+models: 
+  - name: dim_case_type
+    description: "Dimension table containing standardized case types"
+    columns:
+      - name: case_type_key
+        description: "Surrogate key for case type"
+        tests:
+          - not_null
+          - unique
+
+      - name: case_type
+        description: "Standardized case type"
+        tests:
+          - not_null
+          - unique
+          - accepted_values:
+              values: ['SUBMISSION', 'REFERRAL', 'CLAIM']
+
+  - name: dim_lob
+    description: "Dimension table containing line of business values"
+    columns:
+      - name: lob_key
+        description: "Surrogate key for line of business"
+        tests:
+          - not_null
+          - unique
+          
+      - name: lob
+        description: "Standardized line of business code"
+        tests: 
+          - not_null
+          - unique
+          - accepted_values:
+              values: ['MOTOR', 'HEALTH', 'PL', 'PCL']
+
+  - name: dim_region
+    description: "Dimension table containing standardized regions"
+    columns:
+      - name: region_key
+        description: "Surrogate key for region"
+        tests:
+          - not_null
+          - unique
+
+      - name: region
+        description: "Standardized region code"
+        tests:
+          - not_null
+          - unique
+          - accepted_values:
+              values: ['EMEA', 'APAC', 'NA']
+
+  - name: dim_sla
+    description: "Dimension table containing standardized SLA statuses"
+    columns:
+      - name: sla_key
+        description: "Surrogate key for SLA status"
+        tests: 
+          - not_null
+          - unique
+
+      - name: sla_status
+        description: "Standardized SLA status"
+        tests:
+          - not_null
+          - unique
+          - accepted_values:
+              values: ['WITHIN SLA', 'BREACHED', 'MET', 'FAILED']
