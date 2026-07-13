@@ -65,11 +65,13 @@ Lower Spec Limit is 0 hours.
 Upper Spec Limit is 72 hours.
 Process Metric = `tat_hours`
 
+``` text
 CPK is calculated as:
-
 CPK = MIN(CPU, CPL)
 CPU = (USL - Average TAT) / (3 * TAT Std Dev)
 CPL = (Average TAT - LSL) / (3 * TAT Std Dev)
+
+````
 
 ## Data Modeling Approach
 
