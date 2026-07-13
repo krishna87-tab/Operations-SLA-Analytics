@@ -157,7 +157,13 @@ Revenue, cost, and profit fields
 ![image_alt](https://github.com/krishna87-tab/Operations-SLA-Analytics/blob/0350c9565f341f9ae8c06f551eef0922b4c6634a/opernations%20analysis.png)
 
 
+# Author
 
+``` Krishna Kamal Gogoi ```
+
+``` Operational Analyst | Business Intelligence Analyst | Data Analyst | Power BI Developer ```
+
+``` Tech Stack: AWS S3 • Snowflake • dbt • SQL • Power Query • DAX • Power BI  ```
 
 
 
