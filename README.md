@@ -83,6 +83,7 @@ c) Marts = Build final fact and dimension tables for Power BI.
 d) Snapshots = Track historical changes in case-level operational attributes.
 
 ## dbt models 
+```text
 stg_operations
 int_cases_enriched
 fct_cases
@@ -93,6 +94,7 @@ dim_agent
 dim_case_type
 dim_sla
 fct_cases_snapshot
+```
 
 ## Snapshot Strategy
 
