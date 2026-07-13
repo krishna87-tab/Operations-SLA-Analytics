@@ -102,6 +102,7 @@ The project uses a dbt snapshot to preserve historical changes in case-level ope
 
 Because the source data does not contain a reliable `updated_at` column, the snapshot uses the `check` strategy and tracks important business fields such as:
 
+```text
 SLA status
 Turnaround time
 TAT bucket
@@ -110,6 +111,7 @@ Profitability flag
 Satisfaction bucket
 Customer satisfaction
 Revenue, cost, and profit fields
+```
 
 ## Power BI Dashboard Pages
 
