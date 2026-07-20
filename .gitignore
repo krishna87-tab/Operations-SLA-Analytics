@@ -5,6 +5,4 @@ logs/
 .env
 profiles.yml
 *.log
-ml_forecast.py
-models/marts/ml/
 package-lock.yml
