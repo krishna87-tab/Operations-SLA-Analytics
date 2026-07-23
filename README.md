@@ -45,13 +45,15 @@ This project demonstrates:
 - Gross Margin :: Profitability ratio.
 - Customer Satisfaction :: Average satisfaction score.
 
-## Tools Used
-
-- dbt
-- SQL
-- Power BI
-- DAX
-- GitHub
+## Technology Stack
+```
+• Snowflake
+• dbt Core
+• SQL
+• Power BI
+• DAX
+• GitHub
+```
 
 ## SLA And CPK Logic
 
