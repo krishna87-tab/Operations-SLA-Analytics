@@ -84,17 +84,30 @@ The dbt project follows a layered modeling pattern:
 - Snapshots = Track historical changes in case-level operational attributes.
 
 ## dbt models 
-```text
+``` 
+Raw Operations Data
+        │
+        ▼
 stg_operations
+        │
+        ▼
 int_cases_enriched
+        │
+        ▼
+Dimensions
+│
+├── dim_date
+├── dim_region
+├── dim_agent
+├── dim_case_type
+├── dim_lob
+└── dim_sla
+        │
+        ▼
 fct_cases
-dim_date
-dim_lob
-dim_region
-dim_agent
-dim_case_type
-dim_sla
-fct_cases_snapshot
+        │
+        ▼
+Power BI
 ```
 
 ## Snapshot Strategy
