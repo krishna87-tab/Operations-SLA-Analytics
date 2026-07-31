@@ -51,6 +51,7 @@ This project demonstrates:
 
 ## Technology Stack
 ```
+• AWS S3 bucket
 • Snowflake
 • dbt Core
 • SQL
