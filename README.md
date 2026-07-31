@@ -8,7 +8,7 @@ The dashboard focuses on case volume, SLA achievement, turnaround time, process 
 
 ## Architecture Diagram
 
-![image_alt](https://github.com/krishna87-tab/Operations-SLA-Analytics/blob/af704f005d8c292154ca8f7a5deccf11c13d5c79/Architecture%20Diagram.png)
+![image_alt]()
 
 ## Business Problem
 
