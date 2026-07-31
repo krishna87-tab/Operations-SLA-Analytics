@@ -6,6 +6,10 @@ This project analyzes operational service level agreement performance using a mo
 
 The dashboard focuses on case volume, SLA achievement, turnaround time, process capability, customer satisfaction, and profitability. It is designed to help operations teams understand whether service targets are being met, where breaches are happening, and whether the process is capable of consistently meeting the SLA target.
 
+## Architecture Diagram
+
+![image_alt]()
+
 ## Business Problem
 
 Operations teams often track whether cases are completed within SLA, but simple pass/fail reporting does not explain why performance changes or whether the process is stable.
